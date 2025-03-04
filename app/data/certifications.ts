@@ -3,14 +3,14 @@ import type { LanguageCertification, ProfessionalCertification } from "./types";
 export const languageCertifications: LanguageCertification[] = [
   {
     language: "English",
-    certification: "TOEIC(LR)",
+    certification: "TOEIC (LR)",
     score: "595",
     maxScore: "990",
     date: "2023",
   },
   {
     language: "English",
-    certification: "TOEIC(SW)",
+    certification: "TOEIC (SW)",
     score: "270",
     maxScore: "400",
     date: "2025",

@@ -228,20 +228,6 @@ export default function Page() {
           <p className="text-sm text-gray-500 dark:text-gray-400">
             © 2024 {personalInfo.name}. All rights reserved.
           </p>
-          <nav className="sm:ml-auto flex gap-6">
-            <Link
-              className="text-sm hover:text-primary transition-colors"
-              href="#"
-            >
-              Terms of Service
-            </Link>
-            <Link
-              className="text-sm hover:text-primary transition-colors"
-              href="#"
-            >
-              Privacy
-            </Link>
-          </nav>
         </div>
       </footer>
     </div>
