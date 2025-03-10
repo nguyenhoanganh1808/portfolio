@@ -6,7 +6,8 @@ export const personalInfo: PersonalInfo = {
   description:
     "Building digital experiences with modern technologies. Focused on creating elegant solutions to complex problems.",
   email: "nguyenhoanganh.it2003@gmail.com",
-  resumeLink: "/resume.pdf",
+  resumeLink:
+    "https://drive.google.com/file/d/1nZykjBIpVTM7lA_zNmuRbN4b_YZXrl_b/view?usp=drive_link",
   socials: [
     {
       platform: "GitHub",

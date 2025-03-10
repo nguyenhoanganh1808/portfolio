@@ -58,7 +58,9 @@ export default function Page() {
             </nav>
           </div>
           <Button variant="outline" className="ml-auto" asChild>
-            <Link href={personalInfo.resumeLink}>Resume</Link>
+            <Link target="_blank" href={personalInfo.resumeLink}>
+              Resume
+            </Link>
           </Button>
         </div>
       </header>
