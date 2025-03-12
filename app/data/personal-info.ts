@@ -16,7 +16,7 @@ export const personalInfo: PersonalInfo = {
     },
     {
       platform: "LinkedIn",
-      url: "https://www.linkedin.com/in/anh-nguy%E1%BB%85n-ho%C3%A0ng-41116b314/",
+      url: "https://www.linkedin.com/in/anhnh23/",
       icon: "Linkedin",
     },
     // {
