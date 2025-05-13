@@ -2,6 +2,30 @@ import type { Project } from "./types";
 
 export const projects: Project[] = [
   {
+    title: "Media Recommendation Platform",
+    description:
+      "A media recommendation platform that provides personalized recommendations for movies, TV shows based on user preferences and behavior.",
+    image:
+      "https://media-hosting.imagekit.io/3a8d0a821f764759/Screenshot from 2025-05-13 20-54-52.png?Expires=1841752621&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zAuDlwqzWvozxETYIbDIPIA6WSeqD0n~tmNWa5nhXoMOIByMliNGfjPGGZbFxt-ExKKTAq3W5QaK3wEZXJn7MOXjxxC0svS636Zh5bibNJp1Tl1wndj1F3Wy46lF3Mfm--KyuUG90nW16HsR3WBxEUVuyKf7LQhpfGmrIMnUnV4nVjqt5M~P4CJQ-mP-VnesUe8hvl8jzGhbf34NQPzCAsjNFFucmHiNiYeANNqpAvCXA1GsxOVojlNdb7nQaaFh6Zi8UCGTGCmEyntYWBrgARlE5mivocRSZU0G~b1uA-0Bg5kdVPq-zV6-ZZq5B979tYXMwOv9Lipz7hew8BBOsA__",
+    link: "https://github.com/nguyenhoanganh1808/media-recommendation-platform-be",
+    tags: [
+      "Next.js",
+      "Typescript",
+      "TailwindCSS",
+      "Node.js",
+      "Express",
+      "JWT",
+      "Jest",
+      "Rest API",
+      "Prisma",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "AWS",
+      "Nginx",
+    ],
+  },
+  {
     title: "Blog Posts App",
     description:
       "A full-stack blog application with post management, authentication, and comment functionality.",
