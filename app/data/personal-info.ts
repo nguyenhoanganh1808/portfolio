@@ -4,10 +4,10 @@ export const personalInfo: PersonalInfo = {
   name: "Nguyen Hoang Anh",
   title: "Software Engineer",
   description:
-    "Passionate about building scalable and efficient backend systems with modern technologies. Experienced in Node.js, Prisma, and TypeScript, with a strong focus on backend development and system architecture. Currently diving into Golang and exploring open-source contributions, particularly in TiDB. Always eager to solve complex problems and optimize performance while crafting clean and maintainable solutions.",
+    "Passionate backend developer skilled in Node.js, Prisma, and TypeScript. Focused on scalable system architecture and clean, efficient code. Currently exploring Golang and AWS for cloud solutions. Eager to tackle challenging projects and contribute to innovative software development.",
   email: "nguyenhoanganh.it2003@gmail.com",
   resumeLink:
-    "https://drive.google.com/file/d/1nZykjBIpVTM7lA_zNmuRbN4b_YZXrl_b/view?usp=drive_link",
+    "https://drive.google.com/file/d/1_4xY34ddZ51jJDh9uaRTHQcqGhVxDARl/view?usp=sharing",
   socials: [
     {
       platform: "GitHub",
